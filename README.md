@@ -13,6 +13,6 @@ Step 4: npm install
 
 Step 5: Open terminal and give npm run api to run the mock api sever
 
-Step 6: Open new terminal and give npm run start to run the application
+Step 6: Open the new terminal and give npm run start to run the application
 
 Step 7: Open the browser and hit this URL http://localhost:9090/ once build is completed
